@@ -70,5 +70,10 @@ settings ( See screenshot images ).
   12. Add to cart Text: A text for add to cart button.
 
 
-  Other options are used for showing or hiding products items.
+  Other options are used for showing or hiding products items.                 
+  
+  
+  ## Demo                
+  
+  https://github.com/mostafa272/Filterable-Showcase-For-Woocommerce-Products/wiki/Demo
 
