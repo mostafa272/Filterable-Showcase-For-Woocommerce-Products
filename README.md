@@ -75,5 +75,11 @@ settings ( See screenshot images ).
   
   ## Demo                
   
-  https://github.com/mostafa272/Filterable-Showcase-For-Woocommerce-Products/wiki/Demo
+  https://github.com/mostafa272/Filterable-Showcase-For-Woocommerce-Products/wiki/Demo                
+                  
+                  
 
+  ## Plugin page at wordpress.org:  
+  To vote or write a review for this plugin, please see following link:                     
+  
+  https://wordpress.org/plugins/filterable-showcase-for-woocommerce-products/
